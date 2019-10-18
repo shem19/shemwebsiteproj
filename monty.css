@@ -1,0 +1,60 @@
+.nav{
+
+  
+}
+
+
+
+body {
+    background-color: lightgreen;
+}
+.makeyellow {
+    color:yellow;
+}
+body{background-color:blue;
+}
+.makeblue{color:blue;}
+
+body{background-color:red;
+}
+.makegrey{color:red}
+body{
+    background-image: url("manu.jpg")
+}
+
+
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: center;
+    right: 3;
+    bottom: 3;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: widght;
+    bottom: 0;
+    background: rgba(56, 41, 41, 0.5);
+    color: #2c1e1e;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  /* Style the button used to pause/play the video */
+  #myBtn {
+    width: 200px;
+    font-size: 130px;
+    padding: 10px;
+    border: none;
+    background: #100;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  
+  #myBtn:hover {
+    background: rgb(80, 16, 16);
+    color: black;
+  
